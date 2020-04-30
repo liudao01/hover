@@ -18,7 +18,7 @@ package io.mattcarroll.hover.hoverdemo.kitchensink;
 import android.app.ActivityManager;
 import android.app.Application;
 import android.os.Build;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 
 import io.mattcarroll.hover.hoverdemo.kitchensink.appstate.AppStateTracker;
 import io.mattcarroll.hover.hoverdemo.kitchensink.theming.HoverTheme;

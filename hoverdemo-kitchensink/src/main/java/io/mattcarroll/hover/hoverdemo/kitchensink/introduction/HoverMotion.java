@@ -18,7 +18,7 @@ package io.mattcarroll.hover.hoverdemo.kitchensink.introduction;
 import android.graphics.PointF;
 import android.os.Build;
 import android.os.SystemClock;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 import android.view.View;
 

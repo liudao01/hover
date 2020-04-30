@@ -15,7 +15,7 @@
  */
 package io.mattcarroll.hover.hoverdemo.kitchensink.theming;
 
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 
 /**
  * POJO representing a theme configuration.

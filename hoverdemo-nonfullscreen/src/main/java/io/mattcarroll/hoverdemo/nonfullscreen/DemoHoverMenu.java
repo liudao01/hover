@@ -17,10 +17,10 @@ package io.mattcarroll.hoverdemo.nonfullscreen;
 
 import android.content.Context;
 import android.content.res.Resources;
-import android.os.Build;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.util.TypedValue;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
 import android.view.View;
 
 import java.util.Collections;

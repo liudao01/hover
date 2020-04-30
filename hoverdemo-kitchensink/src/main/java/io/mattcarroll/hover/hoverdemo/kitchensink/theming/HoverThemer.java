@@ -15,7 +15,7 @@
  */
 package io.mattcarroll.hover.hoverdemo.kitchensink.theming;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Alters the visual theme of a Hover demo menu.

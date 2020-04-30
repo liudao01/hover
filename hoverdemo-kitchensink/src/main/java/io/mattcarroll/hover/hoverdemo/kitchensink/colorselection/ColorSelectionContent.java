@@ -16,8 +16,8 @@
 package io.mattcarroll.hover.hoverdemo.kitchensink.colorselection;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.design.widget.TabLayout;
+import androidx.annotation.NonNull;
+import com.google.android.material.tabs.TabLayout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.FrameLayout;
