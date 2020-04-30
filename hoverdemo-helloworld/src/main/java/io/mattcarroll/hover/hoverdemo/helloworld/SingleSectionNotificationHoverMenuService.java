@@ -18,11 +18,12 @@ package io.mattcarroll.hover.hoverdemo.helloworld;
 import android.app.Notification;
 import android.content.Context;
 import android.content.Intent;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.NotificationCompat;
 import android.view.View;
 import android.widget.ImageView;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.app.NotificationCompat;
 
 import org.codecanon.hover.hoverdemo.helloworld.R;
 
